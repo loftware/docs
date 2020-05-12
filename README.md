@@ -30,7 +30,7 @@ Loft is:
 
 ## Where?
 
-You can find long-form reviews and discussions over on the Loft forums (TODO: create these) and join our [Discord](https://discord.gg/2AkrfW) server for faster communication and collaboration.
+You can find long-form reviews and discussions over on the Loft forums (TODO: create these) and join our [Discord server](https://discord.gg/2AkrfW) for faster communication and collaboration.
 
 ## Community
 
