@@ -30,7 +30,9 @@ Loft is:
 
 ## Where?
 
-You can find long-form reviews and discussions over on the Loft forums (TODO: create these) and join our [Discord server](https://discord.gg/2AkrfW) for faster communication and collaboration.
+You can find long-form reviews and discussions over on the Loft forums (TODO:
+create these) and join our [Discord server](https://discord.gg/2AkrfW) for
+faster communication and collaboration.
 
 ## Community
 
@@ -45,7 +47,8 @@ You can find long-form reviews and discussions over on the Loft forums (TODO: cr
   manager (no core team rulings).
 - In making a determination, the review manager should try to reflect the
   consensus of the most thoughtful reviews.
-- Investigate [what Rust does](https://forums.swift.org/t/evolution-process-discussion/33272/26).
+- Investigate [what Rust
+  does](https://forums.swift.org/t/evolution-process-discussion/33272/26).
 
 ## Ownership
 
