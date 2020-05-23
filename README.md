@@ -72,6 +72,19 @@ source breaking changes.
   stability to their clients.
 - Loft libraries follow [semantic versioning](https://semver.org/) conventions.
 
+## Infrastructure/Systems
+
+- Infrastructure development and maintenance can be a major drag on an
+  open-source organization's viability.
+- GitHub's services are:
+  - free for open-source projects.
+  - mostly excellent.
+  - well-known and understood.
+  - well-documented.
+  - used successfully to support many important projects.
+- Therefore, the Loft makes maximal use of GitHub's facilities and loft
+  libraries are strongly encouraged to do the same.
+
 ## License
 
 Like Swift itself, all Loft Libraries are Apache 2.0 licensed.
