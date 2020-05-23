@@ -9,8 +9,11 @@ concepts outlined here.*
 
 Loft is:
 - an open source, peer-reviewed index of Swift libraries.
-- a community of developers and users evolving these
-  libraries, and library development in general.
+- a community of developers and users evolving:
+  - individual libraries
+  - the Swift library ecosystem
+  - best practices for Swift programming.
+- an incubation area for libraries targeted at Loft.
 
 ## Why?
 
@@ -30,9 +33,11 @@ Loft is:
 
 ## Where?
 
-You can find long-form reviews and discussions over on the Loft forums (TODO:
-create these) and join our [Discord server](https://discord.gg/2AkrfW) for
-faster communication and collaboration.
+- [Website](http://loftware.org)
+- [GitHub org](http://github.com/loftware)
+- [Incubation Area](http://github.com/loft-nest)
+- Loft forums (TODO: create these) and join our 
+- [Discord server](https://discord.gg/2AkrfW) 
 
 ## Community
 
@@ -65,6 +70,7 @@ source breaking changes.
   encouraged.
 - Any library maintainer is free to promise full API, or even ABI,
   stability to their clients.
+- Loft libraries follow [semantic versioning](https://semver.org/) conventions.
 
 ## License
 
