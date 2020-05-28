@@ -84,6 +84,24 @@ source breaking changes.
   - used successfully to support many important projects.
 - Therefore, the Loft makes maximal use of GitHub's facilities and loft
   libraries are strongly encouraged to do the same.
+- Opening an issue tracker to arbitrary non-actionable bug reports can create an
+  untenable time sink for an open-source maintainer.  Therefore, exposing an
+  issue tracker for a project is not required as long as the project accepts
+  PRs.
+
+## Seed Libraries
+
+We should launch with some packages already in the collection.  Some ideas:
+
+- John Sundell's “Files” package.
+- Other packages by Sundell
+- A package that provides the ability to [XCTest things that
+  FatalError](https://medium.com/@marcosantadev/how-to-test-fatalerror-in-swift-e1be9ff11a29).
+
+## Anticipated Problems
+
+SwiftPM doesn't work on Windows, and IIUC the team has so far been unwilling to
+accept patches to support it working on Windows.
 
 ## License
 
