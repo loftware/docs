@@ -1,7 +1,11 @@
 
 # Loftware Code of Conduct
 
-The Loftware project is committed to creating Swift libraries of the highest quality. To do that, we need people of the highest quality. We firmly beileve that welcoming all contributors is essential to that mission and to that effect, we require all members of our community to abide by the following code of conduct.
+The Loftware project is committed to creating Swift libraries of the highest
+quality. To do that, we need people of the highest quality. We firmly beileve
+that welcoming all contributors is essential to that mission and to that
+effect, we require all members of our community to abide by the following code
+of conduct.
 
 ## Our Pledge
 
@@ -22,7 +26,8 @@ community include:
 
 * Demonstrating empathy and kindness toward other people
 * Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback in a way that encourages rather than discourages further contribution.
+* Giving and gracefully accepting constructive feedback in a way that
+  encourages rather than discourages further contribution.
 * Accepting responsibility and apologizing to those affected by our mistakes,
   and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the
@@ -41,13 +46,18 @@ Examples of unacceptable behavior include:
 
 ## Reviewer Responsibilities
 
-Much of the work relating to the Loftware project is related to code review, and API refinement.
+Much of the work relating to the Loftware project is related to code review,
+and API refinement.
 
 As a part of this process, constructive criticism is **required**. It is
 therefore important that contributors work to provide feedback in a welcoming
 and encouraging manner.
 
-Individuals found to be in violation of Reviewer Responsibilites, but who do not violate our base community standards, will be asked to amend their feedback, and change their behavior going forward. Repeated violations of Reviewer Responsibilities are considered violations of community standards and will be enforced as such.
+Individuals found to be in violation of Reviewer Responsibilites, but who do
+not violate our base community standards, will be asked to amend their
+feedback, and change their behavior going forward. Repeated violations of
+Reviewer Responsibilities are considered violations of community standards and
+will be enforced as such.
 
 A good rule of thumb for identifying if your feedback abides by the reviewer
 responsibilities is: "Have you highlighted clear, actionable solutions to
@@ -57,7 +67,8 @@ common ways in which feedback can be discouraging include the following
 
 ### Ad Hominem Criticism
 
-Ad hominem criticism is defined as attacking a contributor themselves rather than critiquing their work product. For example:
+Ad hominem criticism is defined as attacking a contributor themselves rather
+than critiquing their work product. For example:
 
 > You must be new here, I would never write something like this.
 
@@ -84,16 +95,16 @@ or harmful.
 
 Community leaders have the right and responsibility to remove, edit, or reject
 comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+not aligned to this Code of Conduct, and will communicate reasons for
+moderation decisions when appropriate.
 
 ## Scope
 
 This Code of Conduct applies within all community spaces, and also applies when
 an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+Examples of representing our community include using an official e-mail
+address, posting via an official social media account, or acting as an
+appointed representative at an online or offline event.
 
 ## Enforcement
 
