@@ -1,5 +1,7 @@
 
-# Contributor Covenant Code of Conduct
+# Loftware Code of Conduct
+
+The Loftware project is committed to creating Swift libraries of the highest quality. To do that, we need people of the highest quality. We firmly beileve that welcoming all contributors is essential to that mission and to that effect, we require all members of our community to abide by the following code of conduct.
 
 ## Our Pledge
 
@@ -20,7 +22,7 @@ community include:
 
 * Demonstrating empathy and kindness toward other people
 * Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
+* Giving and gracefully accepting constructive feedback in a way that encourages rather than discourages further contribution.
 * Accepting responsibility and apologizing to those affected by our mistakes,
   and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the
@@ -36,6 +38,42 @@ Examples of unacceptable behavior include:
   address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+
+## Reviewer Responsibilities
+
+Much of the work relating to the Loftware project is related to code review, and API refinement.
+
+As a part of this process, constructive criticism is **required**. It is
+therefore important that contributors work to provide feedback in a welcoming
+and encouraging manner.
+
+Individuals found to be in violation of Reviewer Responsibilites, but who do not violate our base community standards, will be asked to amend their feedback, and change their behavior going forward. Repeated violations of Reviewer Responsibilities are considered violations of community standards and will be enforced as such.
+
+A good rule of thumb for identifying if your feedback abides by the reviewer
+responsibilities is: "Have you highlighted clear, actionable solutions to
+provided criticism, or furthered discussion in an encouraging manner?" Some
+common ways in which feedback can be discouraging include the following
+(among others):
+
+### Ad Hominem Criticism
+
+Ad hominem criticism is defined as attacking a contributor themselves rather than critiquing their work product. For example:
+
+> You must be new here, I would never write something like this.
+
+> No offense, but I can't think of any reason why you would even try to go
+> about this like that.
+
+### Non Constructive Criticism
+
+Non constructive criticism consists of pointing out flaws while providing no
+discussion of opportunities for improvement. It strongly discourages potential
+new community members as it provides no room for growth, only punishment for
+making an attempt. For example:
+
+> This code is bad. It probably needs to be rewritten from scratch.
+
+> The code style throughout this whole pull request is wrong.
 
 ## Enforcement Responsibilities
 
