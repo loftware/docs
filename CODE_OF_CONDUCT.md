@@ -1,11 +1,9 @@
 
-# Loftware Code of Conduct
+# Loft Code of Conduct
 
-The Loftware project is committed to creating Swift libraries of the highest
-quality. To do that, we need people of the highest quality. We firmly beileve
-that welcoming all contributors is essential to that mission and to that
-effect, we require all members of our community to abide by the following code
-of conduct.
+The Loft project is committed to creating Swift libraries of the highest
+quality. Developing great libraries requires accounting for a broad range of users, and use cases. We firmly believe that welcoming all contributors is
+essential to that mission and to that effect, we require all members of our community to abide by the following code of conduct.
 
 ## Our Pledge
 
@@ -27,7 +25,7 @@ community include:
 * Demonstrating empathy and kindness toward other people
 * Being respectful of differing opinions, viewpoints, and experiences
 * Giving and gracefully accepting constructive feedback in a way that
-  encourages rather than discourages further contribution.
+  encourages further contribution.
 * Accepting responsibility and apologizing to those affected by our mistakes,
   and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the
@@ -46,8 +44,7 @@ Examples of unacceptable behavior include:
 
 ## Reviewer Responsibilities
 
-Much of the work relating to the Loftware project is related to code review,
-and API refinement.
+Much of the of the Loft project is related to code review.
 
 As a part of this process, constructive criticism is **required**. It is
 therefore important that contributors work to provide feedback in a welcoming
