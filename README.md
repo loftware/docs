@@ -100,8 +100,7 @@ We should launch with some packages already in the collection.  Some ideas:
 
 ## Anticipated Problems
 
-SwiftPM doesn't work on Windows, and IIUC the team has so far been unwilling to
-accept patches to support it working on Windows.
+SwiftPM doesn't yet work on Windows.
 
 ## License
 
