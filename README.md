@@ -36,13 +36,11 @@ Loft is:
 - [Website](http://loftware.org)
 - [GitHub org](http://github.com/loftware)
 - [Incubation Area](http://github.com/loft-nest)
-- Loft forums (TODO: create these) and join our 
+- Loft forums.  Unless Swift wants to offer an area of its forums for Loft
+  discussion, we'll establish a discourse server. Someone needs to check the
+  Swift forums code of conduct to see if it is compatible with, or can 
+  replace, the Loft one.
 - [Discord server](https://discord.gg/2AkrfW) 
-
-## Community
-
-- Need code of conduct
-- Need home for discussions (MLs, forums, etc.)
 
 ## Peer Review
 
@@ -52,14 +50,21 @@ Loft is:
   manager (no core team rulings).
 - In making a determination, the review manager should try to reflect the
   consensus of the most thoughtful reviews.
-- Investigate [what Rust
-  does](https://forums.swift.org/t/evolution-process-discussion/33272/26).
+
+## Granularity
+
+A highly granular structure is encouraged, allowing users to control
+their dependencies, helping to prevent dependency loops among packages,
+and encouraging contribution without undue implied maintenance commitment.
+Umbrella re-exporting packages based on category (e.g. "Algorithms,"
+"DataStructures," etc.) can make usage more convenient when granularity
+is unneeded.
 
 ## Ownership
 
 Original authors and their designated maintainers maintain full control
-over the evolution of their libraries, without required review, once
-accepted into the Loft index. Reviews are encouraged for substantial
+over the evolution of their packages, without required review, once
+accepted into the Loft index.  Reviews are encouraged for substantial
 source breaking changes.
 
 ## Stability
@@ -97,6 +102,9 @@ We should launch with some packages already in the collection.  Some ideas:
 - Other packages by Sundell
 - A package that provides the ability to [XCTest things that
   FatalError](https://medium.com/@marcosantadev/how-to-test-fatalerror-in-swift-e1be9ff11a29).
+- Sam Lazarus developed 8 packages to provide a seed foundation.
+- Most of the code in [penguin](https://github.com/saeta/penguin) is ready to
+  be broken out into Loft packages.
 
 ## Anticipated Problems
 
