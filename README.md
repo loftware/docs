@@ -1,9 +1,6 @@
-# [Draft - Please do not circulate] The Loft Manifesto
+# [Draft] The Loft Manifesto
 
-*This document is expected to change substantially before it
-becomes public. To avoid forming public opinion about the project
-based on incomplete ideas, please do not share the document or the
-concepts outlined here.*
+*This document is expected to change substantially*
 
 ## What?
 
